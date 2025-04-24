@@ -5,7 +5,7 @@
 - Dentro de la misma red y conectado por SSH a los puertos:
   - Máquina A: puerto 2222
   - Máquina B: puerto 2223
-(./SSH-SCP/1º.png)
+(/SSH-SCP/1º.png)
 - En la máquina A vamos a crear el usuario **Alex** y en la máquina B el usuario **Brais**.
 
 - Nuestra máquina A va a actuar como **cliente** y la máquina B como **servidor**.
