@@ -37,19 +37,15 @@
 
 ![Máquina A](./SSH-SCP/10º.png)
 
-![Máquina B](./SSH-SCP/11º.png)
-
 - Crea el directorio `prueba3` con 200 archivos `.txt` en el servidor y transmítelo al escritorio del ordenador.
 
-![Máquina A](./SSH-SCP/12º.png)
-
-![Máquina B](./SSH-SCP/13º.png)
+![Máquina A](./SSH-SCP/11º.png)
 
 - Genera un par de claves en el cliente y haz la conexión con el servidor.  
   Crea el passphrase: `servidorssh`.
 
-  ![Máquina A](./SSH-SCP/14º.png)
+  ![Máquina A](./SSH-SCP/12º.png)
 
-  ![Máquina A](./SSH-SCP/15º.png)
+  ![Máquina A](./SSH-SCP/13º.png)
 
 
